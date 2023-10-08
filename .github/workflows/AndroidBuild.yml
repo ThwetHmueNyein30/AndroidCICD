@@ -25,6 +25,6 @@ jobs :
         uses: actions/upload-artifact@v3.1.3
         with:
           name : LiveCodingProject.apk
-          path : app/build/outputs/debug/app-debug.apk
+          path : app/build/outputs/apk/debug/app-debug.apk
 
 
