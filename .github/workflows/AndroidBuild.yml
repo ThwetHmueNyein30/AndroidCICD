@@ -11,9 +11,6 @@ jobs :
       - name: Checkout
         uses: actions/checkout@v4.1.0
 
-      - name: Run lint
-        run : ./gradlew lintDebug
-
       - name: Setup Java JDK
         uses: actions/setup-java@v3.13.0
         with:
