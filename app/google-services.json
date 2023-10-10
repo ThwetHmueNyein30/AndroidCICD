@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330635816012",
+    "project_id": "livecodingproject",
+    "storage_bucket": "livecodingproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330635816012:android:f80c7220b3950d697798e9",
+        "android_client_info": {
+          "package_name": "com.thn.livecodingproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHssDDcB3Kf8gFMTcRYr-0hOmOPP1fQ9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
