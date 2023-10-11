@@ -20,6 +20,13 @@ android {
     }
 
     buildTypes {
+        debug{
+            firebaseAppDistribution {
+                artifactType = "APK"
+                appId = "1:330635816012:android:f80c7220b3950d697798e9"
+                groups = "QA"
+            }
+        }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
